@@ -1,1 +1,4 @@
+Olá esse repositório faz parte de um  estudo diario. A referencia é um livro do autor Rogerio Galante. O tema é sobre reconhecimento de padrões, pelo qual aborda uma revisão de literatura.
 
+[x] Link para acesso ao livro do autor
+https://www.amazon.com.br/Reconhecimento-Padr%C3%B5es-um-Estudo-Dirigido/dp/6555061634/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=LSKX6VXW12XG&dib=eyJ2IjoiMSJ9.XCEisUgNs9n43Ffhfri7QHJRv8X_e0VzDDOkbLaCRG-strJtYJoxUk7qBCVol4YBmI50DJ-7Qh9lTmAGb4tmMmkqD2QPwGxjYm-iAPP1MO4wulGmYUnABfiGcXeFkDEiNoRwKDImWDkG4chw12ns1frwzci4XJSJo-UIxio5stQvSo3FRxwNgQotglOX4cW0Fle1gp43NF4YIrsp07ZSXuGX97b90oNQjGGz4sSMIdl8A7Dkr5f_BCugsJG1UYQ7vB-7gwGJfqmHTwAqtgxmjCyRR5ZPXfingEZcs5uf0-k.F_LETVDwNhdWvIaT6LGMT5M9g7SsklmhxPsNRNFICpw&dib_tag=se&keywords=reconhecimento+e+padr%C3%B5es&qid=1717896636&sprefix=reconhecimento+e+padroes%2Caps%2C181&sr=8-1
